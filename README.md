@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @zach-koors
-- 👀 I’m interested in music, coffee, food, Java, front-end web design
-- 🌱 I’m currently learning software development via 14-week coding bootcamp; creating dynamic web-based
+- 👀 I’m interested in music, coffee, food, full stack development (Java for backend)
+- 🌱 I’m currently learning software development via 14-week coding bootcamp (Tech Elevator); creating dynamic web-based
 software systems using the Java programming language
-
-- 💞️ I’m looking to collaborate on anything at this point!
+- 💞️ What are you making? I'd love to learn about your projects and possibly collaborate on something!
 - 📫 How to reach me -> koorsz@gmail.com
 
 <!---
