@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zach-koors
-- 👀 I’m interested in music, coffee, food, full stack development (Java for backend)
-- 🌱 I’m currently learning software development via 14-week coding bootcamp (Tech Elevator); creating dynamic web-based
-software systems using the Java programming language
+- 👀 For work, I'm an engineer at Nationwide Insurance, and I'm interested in software supply chain security, cloud architecture, and DevOps. Outside of work, I’m interested in music, coffee, and premier league (Arsenal).
+- 🌱 I’m currently gaining experience in Kubernetes, DevOps, and Information Risk Management.
 - 💞️ What are you making? I'd love to learn about your projects and possibly collaborate on something!
 - 📫 How to reach me -> koorsz@gmail.com
 
